@@ -1,0 +1,5 @@
+.DS_Store
+pgsql/data/
+!pgsql/data/.gitkeep
+pgadmin/
+!pgadmin/.gitkeep
